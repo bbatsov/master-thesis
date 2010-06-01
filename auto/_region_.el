@@ -1,4 +1,4 @@
-(TeX-add-style-hook "master"
+(TeX-add-style-hook "_region_"
  (lambda ()
     (TeX-run-style-hooks
      "fontenc"
@@ -8,7 +8,6 @@
      "bulgarian"
      "inputenc"
      "utf8"
-     "graphicx"
      "listings"
      "latex2e"
      "rep10"
@@ -19,6 +18,5 @@
      "modules"
      "implementation"
      "manual"
-     "conclusion"
-     "appendix")))
+     "conclusion")))
 

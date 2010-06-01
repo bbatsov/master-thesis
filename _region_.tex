@@ -1,13 +1,15 @@
-\documentclass{report}
+\message{ !name(master.tex)}\documentclass{report}
 \usepackage{listings}
-\usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[english,bulgarian]{babel}
 \usepackage[T2A]{fontenc}
 \author{Божидар Бацов}
 \title{Дипломна работа}
-\includeonly{title,intro,overview,modules,implementation,manual,conclusion,appendix}
+\includeonly{title,intro,overview,modules,implementation,manual,conclusion}
 \begin{document}
+
+\message{ !name(master.tex) !offset(-3) }
+
 \include{title}
 \tableofcontents
 \include{intro}
@@ -16,10 +18,11 @@
 \include{implementation}
 \include{manual}
 \include{conclusion}
-\include{appendix}
 \end{document}
 
 %%% Local Variables: 
 %%% mode: latex
 %%% TeX-master: t
 %%% End: 
+
+\message{ !name(master.tex) !offset(-28) }
