@@ -1,6 +1,7 @@
 (TeX-add-style-hook "master"
  (lambda ()
     (TeX-run-style-hooks
+     "tikz"
      "fontenc"
      "T2A"
      "babel"
