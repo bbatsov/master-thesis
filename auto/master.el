@@ -1,5 +1,7 @@
 (TeX-add-style-hook "master"
  (lambda ()
+    (TeX-add-symbols
+     "HRule")
     (TeX-run-style-hooks
      "tikz"
      "fontenc"
