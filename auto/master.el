@@ -18,6 +18,7 @@
      "report"
      "title"
      "intro"
+     "comparison"
      "overview"
      "modules"
      "implementation"
