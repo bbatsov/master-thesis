@@ -3,7 +3,6 @@
     (TeX-add-symbols
      "HRule")
     (TeX-run-style-hooks
-     "tikz"
      "fontenc"
      "T2A"
      "babel"
@@ -16,13 +15,5 @@
      "latex2e"
      "rep10"
      "report"
-     "title"
-     "intro"
-     "comparison"
-     "overview"
-     "modules"
-     "implementation"
-     "manual"
-     "conclusion"
-     "appendix")))
+     "title")))
 

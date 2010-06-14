@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   enable-background="new"
+   sodipodi:docname="basic_arch.png">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="798.93217"
+     inkscape:cy="540.4486"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4597" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#aa8800;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4541"
+       width="300"
+       height="137.14285"
+       x="240.00002"
+       y="75.219322" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4541"
+       id="use4543"
+       transform="translate(-1.5258789e-5,300)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:#aa8800" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4543"
+       id="use4545"
+       transform="translate(1.5258789e-5,320)"
+       width="744.09448"
+       height="1052.3622"
+       style="fill:#aa8800" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4615"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion4617"><rect
+           id="rect4619"
+           width="261.42856"
+           height="97.14286"
+           x="260"
+           y="93.790756" /></flowRegion><flowPara
+         id="flowPara4621">Графичен</flowPara><flowPara
+         id="flowPara4623">интерфейс</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4625"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(-20.769531,6.9609662)"><flowRegion
+         id="flowRegion4627"><rect
+           id="rect4629"
+           width="261.42856"
+           height="98.571426"
+           x="278.57144"
+           y="395.21933" /></flowRegion><flowPara
+         id="flowPara4631">Сервизен</flowPara><flowPara
+         id="flowPara4633">слой</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4635"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion4637"><rect
+           id="rect4639"
+           width="260"
+           height="97.14286"
+           x="258.57144"
+           y="713.79077" /></flowRegion><flowPara
+         id="flowPara4641">База данни</flowPara></flowRoot>    <rect
+       style="fill:#aa8800"
+       id="rect4645"
+       width="20"
+       height="140"
+       x="380"
+       y="212.36218" />
+    <path
+       sodipodi:type="star"
+       style="fill:#aa8800"
+       id="path4647"
+       sodipodi:sides="3"
+       sodipodi:cx="371.42856"
+       sodipodi:cy="350.93362"
+       sodipodi:r1="34.076744"
+       sodipodi:r2="17.038372"
+       sodipodi:arg1="-0.57637521"
+       sodipodi:arg2="0.47082234"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 399.99999,332.3622 -26.77382,52.60072 -32.16665,-49.48716 58.94047,-3.11356 z"
+       transform="matrix(1.0179762,0,0,1,12.809533,-1.3403398e-5)" />
+    <rect
+       style="fill:#aa8800"
+       id="rect4665"
+       width="20"
+       height="142.85715"
+       x="380"
+       y="509.50504" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4647"
+       id="use4667"
+       transform="translate(-2.3954669e-6,316.88644)"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+</svg>
