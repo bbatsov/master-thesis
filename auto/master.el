@@ -15,5 +15,13 @@
      "latex2e"
      "rep10"
      "report"
-     "title")))
+     "title"
+     "intro"
+     "comparison"
+     "overview"
+     "modules"
+     "implementation"
+     "manual"
+     "conclusion"
+     "appendix")))
 
