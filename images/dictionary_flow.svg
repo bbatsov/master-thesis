@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg3149"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 9">
+  <defs
+     id="defs3151">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1600 : 600 : 1"
+       inkscape:persp3d-origin="800 : 400 : 1"
+       id="perspective3157" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="800"
+     inkscape:cy="600"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3219" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3154">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d4aa00"
+       id="rect3159"
+       width="242"
+       height="100"
+       x="598"
+       y="18"
+       ry="10" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3161"
+       width="444"
+       height="142"
+       x="502"
+       y="182"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="644"
+       y="82"
+       id="text3169"><tspan
+         sodipodi:role="line"
+         id="tspan3171"
+         x="644"
+         y="82">Начало</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="576"
+       y="234"
+       id="text3173"><tspan
+         sodipodi:role="line"
+         id="tspan3175"
+         x="576"
+         y="234">Въвеждане на</tspan><tspan
+         sodipodi:role="line"
+         x="576"
+         y="284"
+         id="tspan3177">дума</tspan></text>
+    <rect
+       ry="10"
+       y="1040"
+       x="618"
+       height="100"
+       width="242"
+       id="rect3179"
+       style="fill:#d4aa00" />
+    <rect
+       ry="10"
+       y="580"
+       x="1056"
+       height="142"
+       width="444"
+       id="rect3181"
+       style="fill:#d4aa00" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3183"
+       width="444"
+       height="142"
+       x="496"
+       y="380"
+       ry="10" />
+    <rect
+       ry="10"
+       y="580"
+       x="496"
+       height="142"
+       width="444"
+       id="rect3185"
+       style="fill:#d4aa00" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="534"
+       y="430"
+       id="text3187"><tspan
+         sodipodi:role="line"
+         id="tspan3189"
+         x="534"
+         y="430">Избор на </tspan><tspan
+         sodipodi:role="line"
+         x="534"
+         y="480"
+         id="tspan3191">правилен речник</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="540"
+       y="640"
+       id="text3193"><tspan
+         sodipodi:role="line"
+         id="tspan3195"
+         x="540"
+         y="640">Проверка за </tspan><tspan
+         sodipodi:role="line"
+         x="540"
+         y="690"
+         id="tspan3197">точно съвпадение</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1120"
+       y="640"
+       id="text3199"><tspan
+         sodipodi:role="line"
+         id="tspan3201"
+         x="1120"
+         y="640">Приблизително</tspan><tspan
+         sodipodi:role="line"
+         x="1120"
+         y="690"
+         id="tspan3203">съвпадение</tspan></text>
+    <rect
+       style="fill:#d4aa00"
+       id="rect3205"
+       width="444"
+       height="142"
+       x="496"
+       y="838"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="520"
+       y="860"
+       id="text3207"><tspan
+         sodipodi:role="line"
+         id="tspan3209"
+         x="520"
+         y="860">Извеждане на </tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="910"
+         id="tspan3211">резултат на екран</tspan><tspan
+         sodipodi:role="line"
+         x="520"
+         y="960"
+         id="tspan3213">(и в трей)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="680"
+       y="1100"
+       id="text3215"><tspan
+         sodipodi:role="line"
+         id="tspan3217"
+         x="680"
+         y="1100">Край</tspan></text>
+    <rect
+       style="fill:#d4aa00"
+       id="rect3223"
+       width="20"
+       height="80"
+       x="700"
+       y="100"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3225"
+       width="20"
+       height="60"
+       x="700"
+       y="320"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3227"
+       width="16"
+       height="62"
+       x="704"
+       y="518"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3229"
+       width="14"
+       height="120"
+       x="706"
+       y="720"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3231"
+       width="120"
+       height="20"
+       x="940"
+       y="640"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3233"
+       width="20"
+       height="200"
+       x="1260"
+       y="720"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3235"
+       width="320"
+       height="20"
+       x="940"
+       y="900"
+       ry="6" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3239"
+       width="20"
+       height="60"
+       x="700"
+       y="980"
+       ry="6" />
+    <path
+       transform="matrix(0.95545115,0.2951493,-0.2951493,0.95545115,532.80659,574.389)"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.26179939"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:r2="14.142136"
+       sodipodi:r1="28.284271"
+       sodipodi:cy="180"
+       sodipodi:cx="240"
+       sodipodi:sides="3"
+       id="path3243"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3245"
+       sodipodi:sides="3"
+       sodipodi:cx="240"
+       sodipodi:cy="180"
+       sodipodi:r1="28.284271"
+       sodipodi:r2="14.142136"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:arg2="0.26179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       transform="matrix(0.95545115,0.2951493,-0.2951493,0.95545115,532.80659,318.389)" />
+    <path
+       transform="matrix(0.95545115,0.2951493,-0.2951493,0.95545115,530.80659,122.389)"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.26179939"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:r2="14.142136"
+       sodipodi:r1="28.284271"
+       sodipodi:cy="180"
+       sodipodi:cx="240"
+       sodipodi:sides="3"
+       id="path3247"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3249"
+       sodipodi:sides="3"
+       sodipodi:cx="240"
+       sodipodi:cy="180"
+       sodipodi:r1="28.284271"
+       sodipodi:r2="14.142136"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:arg2="0.26179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       transform="matrix(0.95545115,0.2951493,-0.2951493,0.95545115,532.80659,-81.611002)" />
+    <path
+       transform="matrix(0.98439247,-0.17598713,0.17598713,0.98439247,692.08694,773.23313)"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.26179939"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:r2="14.142136"
+       sodipodi:r1="28.284271"
+       sodipodi:cy="180"
+       sodipodi:cx="240"
+       sodipodi:sides="3"
+       id="path3251"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3253"
+       sodipodi:sides="3"
+       sodipodi:cx="240"
+       sodipodi:cy="180"
+       sodipodi:r1="28.284271"
+       sodipodi:r2="14.142136"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:arg2="0.26179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       transform="matrix(0.753732,0.65718193,-0.65718193,0.753732,967.10811,356.16092)" />
+    <path
+       transform="matrix(0.95545115,0.2951493,-0.2951493,0.95545115,532.80659,776.389)"
+       d="m 260,160 -6.33975,23.66025 -6.33974,23.66026 L 230,190 212.67949,172.67949 236.33975,166.33975 260,160 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.26179939"
+       sodipodi:arg1="-0.78539816"
+       sodipodi:r2="14.142136"
+       sodipodi:r1="28.284271"
+       sodipodi:cy="180"
+       sodipodi:cx="240"
+       sodipodi:sides="3"
+       id="path3255"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="962"
+       y="602"
+       id="text3257"><tspan
+         sodipodi:role="line"
+         id="tspan3259"
+         x="962"
+         y="602">Не</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="778"
+       y="772"
+       id="text3261"><tspan
+         sodipodi:role="line"
+         id="tspan3263"
+         x="778"
+         y="772">Да</tspan></text>
+  </g>
+</svg>

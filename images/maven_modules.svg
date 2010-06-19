@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg3328"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 13">
+  <defs
+     id="defs3330">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective3336" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="512"
+     inkscape:cy="382"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3333">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d4aa00"
+       id="rect3338"
+       width="882"
+       height="416"
+       x="40"
+       y="162"
+       ry="10.558376" />
+    <rect
+       style="fill:#aa8800"
+       id="rect3340"
+       width="250"
+       height="102"
+       x="122"
+       y="246"
+       ry="12.75" />
+    <rect
+       ry="12.75"
+       y="248"
+       x="452"
+       height="102"
+       width="392"
+       id="rect3342"
+       style="fill:#aa8800" />
+    <rect
+       style="fill:#aa8800"
+       id="rect3344"
+       width="278"
+       height="102"
+       x="120"
+       y="434"
+       ry="12.75" />
+    <rect
+       style="fill:#aa8800"
+       id="rect3346"
+       width="374"
+       height="102"
+       x="458"
+       y="436"
+       ry="12.75" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="186"
+       y="312"
+       id="text3350"><tspan
+         sodipodi:role="line"
+         id="tspan3352"
+         x="186"
+         y="312">Ядро</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="516"
+       y="298"
+       id="text3354"><tspan
+         sodipodi:role="line"
+         id="tspan3356"
+         x="516"
+         y="298">Swing</tspan><tspan
+         sodipodi:role="line"
+         x="516"
+         y="348"
+         id="tspan3358">компоненти</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="130"
+       y="480"
+       id="text3360"><tspan
+         sodipodi:role="line"
+         id="tspan3362"
+         x="130"
+         y="480">Помощни</tspan><tspan
+         sodipodi:role="line"
+         x="130"
+         y="530"
+         id="tspan3364">интрументи</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="460"
+       y="478"
+       id="text3366"><tspan
+         sodipodi:role="line"
+         id="tspan3368"
+         x="460"
+         y="478">Потребителски</tspan><tspan
+         sodipodi:role="line"
+         x="460"
+         y="528"
+         id="tspan3370">интерфейс</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="280"
+       y="204"
+       id="text3372"><tspan
+         sodipodi:role="line"
+         id="tspan3374"
+         x="280"
+         y="204">Основен проект</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg3439"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 17">
+  <defs
+     id="defs3441">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective3447" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="512"
+     inkscape:cy="382"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3444">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d4aa00"
+       id="rect3449"
+       width="366"
+       height="100"
+       x="380"
+       y="22"
+       ry="11.731529" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3459"
+       width="364"
+       height="100"
+       x="384"
+       y="224"
+       ry="11.731529" />
+    <rect
+       ry="11.731529"
+       y="408"
+       x="380"
+       height="100"
+       width="374"
+       id="rect3461"
+       style="fill:#d4aa00" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3463"
+       width="378"
+       height="100"
+       x="376"
+       y="618"
+       ry="11.731529" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="416"
+       y="54"
+       id="text3465"><tspan
+         sodipodi:role="line"
+         x="416"
+         y="54"
+         id="tspan3469">Избиране на</tspan><tspan
+         sodipodi:role="line"
+         x="416"
+         y="104"
+         id="tspan3473">думи за изпита</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="408"
+       y="270"
+       id="text3475"><tspan
+         sodipodi:role="line"
+         id="tspan3477"
+         x="408"
+         y="270">Извеждане на</tspan><tspan
+         sodipodi:role="line"
+         x="408"
+         y="320"
+         id="tspan3479">думите</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="410"
+       y="444"
+       id="text3481"><tspan
+         sodipodi:role="line"
+         id="tspan3483"
+         x="410"
+         y="444">Проверка на</tspan><tspan
+         sodipodi:role="line"
+         x="410"
+         y="494"
+         id="tspan3485">преводите</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="400"
+       y="652"
+       id="text3487"><tspan
+         sodipodi:role="line"
+         id="tspan3489"
+         x="400"
+         y="652">Извеждане</tspan><tspan
+         sodipodi:role="line"
+         x="400"
+         y="702"
+         id="tspan3491">на резултата</tspan></text>
+    <rect
+       style="fill:#d4aa00"
+       id="rect3493"
+       width="26"
+       height="94"
+       x="538"
+       y="114"
+       ry="11.731529" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3505"
+       width="26"
+       height="94"
+       x="540"
+       y="494"
+       ry="11.731529" />
+    <rect
+       ry="11.731529"
+       y="318"
+       x="542"
+       height="94"
+       width="26"
+       id="rect3507"
+       style="fill:#d4aa00" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3523"
+       sodipodi:sides="3"
+       sodipodi:cx="526"
+       sodipodi:cy="202"
+       sodipodi:r1="33.286633"
+       sodipodi:r2="16.643318"
+       sodipodi:arg1="-0.57133748"
+       sodipodi:arg2="0.47586007"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 554,184 540.79423,209.62436 527.58846,235.24871 512,211 496.41154,186.75129 525.20577,185.37564 554,184 z"
+       transform="translate(22,8)" />
+    <path
+       transform="translate(28,184)"
+       d="M 554,184 540.79423,209.62436 527.58846,235.24871 512,211 496.41154,186.75129 525.20577,185.37564 554,184 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.47586007"
+       sodipodi:arg1="-0.57133748"
+       sodipodi:r2="16.643318"
+       sodipodi:r1="33.286633"
+       sodipodi:cy="202"
+       sodipodi:cx="526"
+       sodipodi:sides="3"
+       id="path3525"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <path
+       transform="translate(30,394)"
+       d="M 554,184 540.79423,209.62436 527.58846,235.24871 512,211 496.41154,186.75129 525.20577,185.37564 554,184 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.47586007"
+       sodipodi:arg1="-0.57133748"
+       sodipodi:r2="16.643318"
+       sodipodi:r1="33.286633"
+       sodipodi:cy="202"
+       sodipodi:cx="526"
+       sodipodi:sides="3"
+       id="path3527"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+  </g>
+</svg>

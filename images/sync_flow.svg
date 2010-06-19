@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   id="svg3592"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 21">
+  <defs
+     id="defs3594">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 384 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective3600" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="512"
+     inkscape:cy="382"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3597">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#d4aa00"
+       id="rect3604"
+       width="574"
+       height="172"
+       x="254"
+       y="488"
+       ry="2" />
+    <rect
+       ry="2"
+       y="90"
+       x="250"
+       height="172"
+       width="574"
+       id="rect3606"
+       style="fill:#d4aa00" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect3608"
+       width="34"
+       height="216"
+       x="382"
+       y="258"
+       ry="2" />
+    <rect
+       ry="2"
+       y="274"
+       x="664"
+       height="216"
+       width="34"
+       id="rect3610"
+       style="fill:#d4aa00" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3614"
+       sodipodi:sides="3"
+       sodipodi:cx="370"
+       sodipodi:cy="450"
+       sodipodi:r1="48"
+       sodipodi:r2="24.000002"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 370,498 349.21539,462 328.43078,426 370,426 411.56922,426 390.78461,462 370,498 z"
+       transform="translate(32,24)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path3616"
+       sodipodi:sides="3"
+       sodipodi:cx="626"
+       sodipodi:cy="276"
+       sodipodi:r1="46.647614"
+       sodipodi:r2="23.323811"
+       sodipodi:arg1="0.5404195"
+       sodipodi:arg2="1.5876171"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 666,300 -40.39231,-0.67949 -40.3923,-0.67949 L 606,264 l 20.78461,-34.64101 19.6077,35.3205 L 666,300 z"
+       transform="translate(52,4)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="348"
+       y="188"
+       id="text3618"><tspan
+         sodipodi:role="line"
+         id="tspan3620"
+         x="348"
+         y="188">Spellbook Desktop</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="410"
+       y="588"
+       id="text3622"><tspan
+         sodipodi:role="line"
+         id="tspan3624"
+         x="410"
+         y="588">Spellbook Web</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="706"
+       y="330"
+       id="text3626"><tspan
+         sodipodi:role="line"
+         id="tspan3628"
+         x="706"
+         y="330">Изтегляне</tspan><tspan
+         sodipodi:role="line"
+         x="706"
+         y="380"
+         id="tspan3630">на промените</tspan><tspan
+         sodipodi:role="line"
+         x="706"
+         y="430"
+         id="tspan3632">от последното</tspan><tspan
+         sodipodi:role="line"
+         x="706"
+         y="480"
+         id="tspan3634">обновяване</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="80"
+       y="326"
+       id="text3636"><tspan
+         sodipodi:role="line"
+         id="tspan3638"
+         x="80"
+         y="326">Качване</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="376"
+         id="tspan3640">на локалните</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="426"
+         id="tspan3642">промени</tspan></text>
+  </g>
+</svg>

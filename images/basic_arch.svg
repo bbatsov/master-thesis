@@ -7,25 +7,23 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
-   id="svg2"
+   width="1024px"
+   height="768px"
+   id="svg2816"
    version="1.1"
    inkscape:version="0.47 r22583"
-   enable-background="new"
-   sodipodi:docname="basic_arch.png">
+   sodipodi:docname="New document 2">
   <defs
-     id="defs4">
+     id="defs2818">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_x="0 : 384 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10" />
+       inkscape:vp_z="1024 : 384 : 1"
+       inkscape:persp3d-origin="512 : 256 : 1"
+       id="perspective2824" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -34,11 +32,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="798.93217"
-     inkscape:cy="540.4486"
-     inkscape:document-units="px"
+     inkscape:zoom="0.5"
+     inkscape:cx="512"
+     inkscape:cy="382"
      inkscape:current-layer="layer1"
+     inkscape:document-units="px"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="975"
@@ -47,10 +45,10 @@
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
-       id="grid4597" />
+       id="grid2842" />
   </sodipodi:namedview>
   <metadata
-     id="metadata7">
+     id="metadata2821">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -62,104 +60,230 @@
     </rdf:RDF>
   </metadata>
   <g
+     id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:groupmode="layer">
     <rect
-       style="fill:#aa8800;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect4541"
-       width="300"
-       height="137.14285"
-       x="240.00002"
-       y="75.219322" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#rect4541"
-       id="use4543"
-       transform="translate(-1.5258789e-5,300)"
-       width="744.09448"
-       height="1052.3622"
-       style="fill:#aa8800" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use4543"
-       id="use4545"
-       transform="translate(1.5258789e-5,320)"
-       width="744.09448"
-       height="1052.3622"
-       style="fill:#aa8800" />
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:1.18804681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2826"
+       width="280"
+       height="138"
+       x="60"
+       y="50"
+       ry="39.762711" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot4615"
+       id="flowRoot2844"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
-         id="flowRegion4617"><rect
-           id="rect4619"
-           width="261.42856"
-           height="97.14286"
-           x="260"
-           y="93.790756" /></flowRegion><flowPara
-         id="flowPara4621">Графичен</flowPara><flowPara
-         id="flowPara4623">интерфейс</flowPara></flowRoot>    <flowRoot
+         id="flowRegion2846"><rect
+           id="rect2848"
+           width="200"
+           height="74"
+           x="100"
+           y="70" /></flowRegion><flowPara
+         id="flowPara2850" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot4625"
+       id="flowRoot2852"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion2854"><rect
+           id="rect2856"
+           width="196"
+           height="84"
+           x="102"
+           y="66" /></flowRegion><flowPara
+         id="flowPara2858"></flowPara></flowRoot>    <text
+       xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(-20.769531,6.9609662)"><flowRegion
-         id="flowRegion4627"><rect
-           id="rect4629"
-           width="261.42856"
-           height="98.571426"
-           x="278.57144"
-           y="395.21933" /></flowRegion><flowPara
-         id="flowPara4631">Сервизен</flowPara><flowPara
-         id="flowPara4633">слой</flowPara></flowRoot>    <flowRoot
+       x="80"
+       y="108"
+       id="text2860"><tspan
+         sodipodi:role="line"
+         id="tspan2862"
+         x="80"
+         y="108">Графичен</tspan><tspan
+         sodipodi:role="line"
+         x="80"
+         y="158"
+         id="tspan2864">интерфейс</tspan></text>
+    <rect
+       ry="39.762711"
+       y="570"
+       x="60"
+       height="138"
+       width="280"
+       id="rect2866"
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:1.18804681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:1.18804681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2868"
+       width="280"
+       height="138"
+       x="560"
+       y="308"
+       ry="39.762711" />
+    <rect
+       ry="39.762711"
+       y="570"
+       x="560"
+       height="138"
+       width="280"
+       id="rect2870"
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:1.18804681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:1.18804681px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2872"
+       width="280"
+       height="138"
+       x="60"
+       y="310"
+       ry="39.762711" />
+    <text
        xml:space="preserve"
-       id="flowRoot4635"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
-         id="flowRegion4637"><rect
-           id="rect4639"
-           width="260"
-           height="97.14286"
-           x="258.57144"
-           y="713.79077" /></flowRegion><flowPara
-         id="flowPara4641">База данни</flowPara></flowRoot>    <rect
-       style="fill:#aa8800"
-       id="rect4645"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="100"
+       y="368"
+       id="text2874"><tspan
+         sodipodi:role="line"
+         id="tspan2876"
+         x="100"
+         y="368">Сервизен</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="418"
+         id="tspan2878">слой</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="120"
+       y="628"
+       id="text2880"><tspan
+         sodipodi:role="line"
+         id="tspan2882"
+         x="120"
+         y="628">База</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="678"
+         id="tspan2884">данни</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="600"
+       y="388"
+       id="text2886"><tspan
+         sodipodi:role="line"
+         id="tspan2888"
+         x="600"
+         y="388">Интернет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="580"
+       y="628"
+       id="text2890"><tspan
+         sodipodi:role="line"
+         id="tspan2892"
+         x="580"
+         y="628">Уеб</tspan><tspan
+         sodipodi:role="line"
+         x="580"
+         y="678"
+         id="tspan2894">приложение</tspan></text>
+    <rect
+       style="fill:#d4aa00"
+       id="rect2896"
        width="20"
-       height="140"
-       x="380"
-       y="212.36218" />
+       height="120"
+       x="180"
+       y="168"
+       ry="10" />
+    <rect
+       ry="10"
+       y="428"
+       x="680"
+       height="120"
+       width="20"
+       id="rect2902"
+       style="fill:#d4aa00" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect2904"
+       width="20"
+       height="120"
+       x="180"
+       y="428"
+       ry="10" />
+    <rect
+       style="fill:#d4aa00"
+       id="rect2906"
+       width="200"
+       height="20"
+       x="340"
+       y="368"
+       ry="10" />
     <path
        sodipodi:type="star"
-       style="fill:#aa8800"
-       id="path4647"
+       style="fill:#d4aa00"
+       id="path2908"
        sodipodi:sides="3"
-       sodipodi:cx="371.42856"
-       sodipodi:cy="350.93362"
-       sodipodi:r1="34.076744"
-       sodipodi:r2="17.038372"
-       sodipodi:arg1="-0.57637521"
-       sodipodi:arg2="0.47082234"
-       inkscape:flatsided="true"
+       sodipodi:cx="172"
+       sodipodi:cy="278"
+       sodipodi:r1="56.603886"
+       sodipodi:r2="28.301943"
+       sodipodi:arg1="-0.55859932"
+       sodipodi:arg2="0.48859824"
+       inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 399.99999,332.3622 -26.77382,52.60072 -32.16665,-49.48716 58.94047,-3.11356 z"
-       transform="matrix(1.0179762,0,0,1,12.809533,-1.3403398e-5)" />
-    <rect
-       style="fill:#aa8800"
-       id="rect4665"
-       width="20"
-       height="142.85715"
-       x="380"
-       y="509.50504" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path4647"
-       id="use4667"
-       transform="translate(-2.3954669e-6,316.88644)"
-       width="744.09448"
-       height="1052.3622" />
+       d="M 220,248 196.99038,291.28461 173.98076,334.56922 148,293 122.01924,251.43078 171.00962,249.71539 220,248 z"
+       transform="translate(20.000001,-20)" />
+    <path
+       transform="translate(17.980761,236.56922)"
+       d="M 220,248 196.99038,291.28461 173.98076,334.56922 148,293 122.01924,251.43078 171.00962,249.71539 220,248 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.48859824"
+       sodipodi:arg1="-0.55859932"
+       sodipodi:r2="28.301943"
+       sodipodi:r1="56.603886"
+       sodipodi:cy="278"
+       sodipodi:cx="172"
+       sodipodi:sides="3"
+       id="path2910"
+       style="fill:#d4aa00"
+       sodipodi:type="star" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path2912"
+       sodipodi:sides="3"
+       sodipodi:cx="172"
+       sodipodi:cy="278"
+       sodipodi:r1="56.603886"
+       sodipodi:r2="28.301943"
+       sodipodi:arg1="-0.55859932"
+       sodipodi:arg2="0.48859824"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 220,248 196.99038,291.28461 173.98076,334.56922 148,293 122.01924,251.43078 171.00962,249.71539 220,248 z"
+       transform="translate(520,240)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00"
+       id="path2914"
+       sodipodi:sides="3"
+       sodipodi:cx="500"
+       sodipodi:cy="348"
+       sodipodi:r1="60"
+       sodipodi:r2="30"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 560,348 515,373.98076 470,399.96152 470,348 470,296.03848 515,322.01924 560,348 z"
+       transform="translate(0,20)" />
   </g>
 </svg>
